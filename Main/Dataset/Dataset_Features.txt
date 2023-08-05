@@ -1,0 +1,31 @@
+MSISDN: is a unique identifier for a mobile phone number, 
+        including the country code and subscriber's number. 
+        It's used for routing calls, messages, billing, and identification 
+        in mobile networks.
+
+Total bytes: typically refers to the total amount of data transmitted 
+        or received over a network, storage system, or communication channel, 
+        usually measured in bytes.
+
+DL_THRPT: Downlink throughput refers to the speed at which data is downloaded 
+        from a network to a device, like how fast you can get files or content 
+        from the internet.
+
+
+LTE_CONG: "LTE congestion" refers to a situation in a cellular network where 
+        there is a high volume of users and data traffic, leading to reduced 
+        performance and slower data speeds for users.
+
+imei: IMEI stands for "International Mobile Equipment Identity." It is a unique 
+        identification number for mobile devices, including smartphones and 
+        cellular tablets.
+
+CELL_NAME: "Cell name" refers to the identification of a specific cell or base 
+        station in a cellular network. In mobile telecommunications, a cellular 
+        network is divided into smaller geographic areas called cells, each 
+        served by a base station or cell tower. Each cell has a unique identifier 
+        or name, which helps the network manage and route calls, data, and other 
+        communication services to and from mobile devices within that cell. Cell 
+        names are essential for ensuring seamless connectivity and efficient 
+        communication in a mobile network.
+
