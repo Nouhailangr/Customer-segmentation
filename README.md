@@ -28,24 +28,24 @@ The customer segmentation model follows these steps:
         -Load and preprocess the customer dataset.
         -Apply K-Means Clustering to group customers into segments.
         -Serialize and save the trained clustering model.
-        -Installation
+## Installation
 
 To set up the project environment, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/customer-segmentation.git
+[git clone https://github.com/your-username/customer-segmentation.git]
 
 Navigate to the project directory:
-cd Customer-Segmentation
+[cd Customer-Segmentation]
 
 Install the dependencies:
-pip install -r requirements.txt
+[pip install -r requirements.txt]
 
 # Usage
 
 Run the streamlit application:
 
-streamlit run streamlit.py
+[streamlit run streamlit.py]
 
 Access the web application through your browser at http://localhost:5000. The user interface will allow you to upload a CSV file containing customer data.
 
