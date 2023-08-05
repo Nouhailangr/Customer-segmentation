@@ -1,13 +1,12 @@
-Customer Segmentation 
+#Customer Segmentation 
 
 This project focuses on creating a machine learning model for customer segmentation using the K-Means Clustering algorithm. The objective is to group customers based on their and other relevant features. Additionally, a web application using Streamlit is developed to visualize the segmentation results.
-
 Table of Contents
 
-  .Project Overview
-  .Installation
-  .Usage
-  .Project Overview
+          -Project Overview
+          -Installation
+          -Usage
+          -Project Overview
 
 In this project, we harness the capabilities of K-Means Clustering, a widely used unsupervised learning algorithm, to categorize customers into distinct segments based on their shared characteristics. This approach can provide valuable insights for targeted marketing, personalized recommendations, and business strategy optimization.
 
@@ -20,14 +19,14 @@ streamlit.py: The Streamlit application for deploying the trained model and visu
 requirements.txt: A list of Python dependencies required to run the project.
 Customer_Segmentation.ipynb: The Jupyter Notebook used for building and analyzing the segmentation model.
 
-The Machine Learning Model
+##The Machine Learning Model
 
 The customer segmentation model follows these steps:
 
-Load and preprocess the customer dataset.
-Apply K-Means Clustering to group customers into segments.
-Serialize and save the trained clustering model.
-Installation
+        -Load and preprocess the customer dataset.
+        -Apply K-Means Clustering to group customers into segments.
+        -Serialize and save the trained clustering model.
+        -Installation
 
 To set up the project environment, follow these steps:
 
@@ -40,7 +39,7 @@ cd Customer-Segmentation
 Install the dependencies:
 pip install -r requirements.txt
 
-Usage
+#Usage
 
 Run the streamlit application:
 
