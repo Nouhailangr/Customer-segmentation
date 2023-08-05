@@ -47,6 +47,7 @@ Run the streamlit application:
 
 [streamlit run streamlit.py]
 
-Access the web application through your browser at http://localhost:5000. The user interface will allow you to upload a CSV file containing customer data.
+![Screenshot 2023-08-03 at 22 37 55](https://github.com/Nouhailangr/Customer-segmentation/assets/127351602/27148bc4-81b7-48df-8ec3-2a358521fb0a)
+
 
 Fill in the necessary details about the customers and submit the form. The application will process the data and display the customer segment
