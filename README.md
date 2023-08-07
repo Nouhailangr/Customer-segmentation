@@ -14,11 +14,12 @@ In this project, we harness the capabilities of K-Means Clustering, a widely use
 
 The project repository includes the following components:
 
-App/: This directory holds the source code files for the Flask web application.
-clustering.pkl: The serialized K-Means Clustering model.
-streamlit.py: The Streamlit application for deploying the trained model and visualizing segment results.
-requirements.txt: A list of Python dependencies required to run the project.
-Customer_Segmentation.ipynb: The Jupyter Notebook used for building and analyzing the segmentation model.
+- Dataset/: This directory holds the dataset and all features explained in Dataset_Features.txt
+- Deployment/App/: This directory holds the source code files for the streamlit web application.
+- clustering.pkl: The serialized K-Means Clustering model.
+- streamlit.py: The Streamlit application for deploying the trained model and visualizing segment results.
+- requirements.txt: A list of Python dependencies required to run the project.
+- Customer_Segmentation.ipynb: The Jupyter Notebook used for building and analyzing the segmentation model.
 
 
 The customer segmentation model follows these steps:
