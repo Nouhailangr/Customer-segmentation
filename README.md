@@ -2,7 +2,7 @@
 
 This project focuses on creating a machine learning model for customer segmentation using the K-Means Clustering algorithm. The objective is to group customers based on the total bytes consumed by their devices, the downlink throughput and other relevant features. Additionally, a web application using Streamlit is developed to visualize the segmentation results.
 
-![Uploading linkdin.drawio.png…]()
+![linkdin](https://github.com/Nouhailangr/Customer-segmentation/assets/127351602/0ce89989-3227-4a60-b971-59d9f3d95165)
 
 
 # Table of Contents
